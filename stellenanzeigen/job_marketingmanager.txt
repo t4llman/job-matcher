@@ -1,0 +1,137 @@
+1. Simulationsingenieur (m/w/d) – Batterietechnologie / Matlab / NURON
+Aufgaben:
+
+Planung, Durchführung, Auswertung von Simulationsmodellen (Elektrotechnik, Mechatronik, Regelungstechnik)
+
+Modellvalidierung in Abstimmung mit Messtechnik und Entwicklung
+
+Weiterentwicklung von Simulationsprozessen und Modellierungsmethoden
+
+Anforderungen:
+
+Studium mit Fokus auf numerische Verfahren oder modellbasierte Entwicklung
+
+Erfahrung mit Matlab/Simulink in der Entwicklung von Energiespeichersystemen
+
+Erfahrung in Modellparametrierung und Validierung
+
+Analytisch, teamfähig, sehr gutes Englisch
+
+2. Simulationsingenieur (m/w/d) – Mehrkörperdynamik (MKS)
+Aufgaben:
+
+Entwicklung und Validierung von MKS-Simulationsmodellen (z. B. Vibrationssimulation für Bohrhämmer)
+
+Anwendung in Technologie- und Serienentwicklungsprojekten
+
+Zusammenarbeit mit Konstruktion, Versuch, Messtechnik
+
+Anforderungen:
+
+Maschinenbaustudium oder ähnlich
+
+Erfahrung mit SIMPACK und Matlab/Simulink
+
+Experimentelle Validierung, analytisches Denken, gute Englischkenntnisse
+
+3. Simulationsingenieur (m/w/d) – Getriebe- und Maschinenelemente
+Aufgaben:
+
+Planung und Auswertung von Simulationsmodellen für Getriebe und Maschinenelemente
+
+Validierung gemeinsam mit Versuch, Messtechnik, Konstruktion
+
+Optimierung von Simulationsprozessen
+
+Anforderungen:
+
+Maschinenbau oder verwandtes Studium
+
+Erfahrung mit KISSsoft/KISSsys oder vergleichbaren Tools
+
+Tribologiekenntnisse von Vorteil, sehr gute Englischkenntnisse
+
+4. Life Cycle Assessment Organisator (m/w/d) – Nachhaltigkeit / LCA
+Aufgaben:
+
+Sammlung und Aufbereitung von Umweltdaten für Lebenszyklusanalysen
+
+Pflege von LCA-Datenbanken und Modellen
+
+Abstimmung mit Entwicklung, OPEX und dem Sustainability Manager
+
+Anforderungen:
+
+Studium im Bereich Ingenieurwesen oder Umweltwissenschaften
+
+Erfahrung mit LCA-Software (z. B. One Click LCA)
+
+Analytisch, strukturiert, sehr gutes Englisch
+
+5. Motor Control Development Engineer (m/w/d)
+Aufgaben:
+
+Entwicklung von Motorregelungs- und Steuerungsverfahren
+
+Aufbau, Simulation, Programmierung, Tests im Labor
+
+Koordination mit internen und externen Entwicklungspartnern
+
+Anforderungen:
+
+Studium in Elektrotechnik, Elektronik oder Informatik
+
+Erste Erfahrung mit elektrischen Antrieben
+
+Analytisch, kommunikativ, gutes Englisch
+
+6. IoT Test and Implementation Engineer (m/w/d)
+Aufgaben:
+
+Test und Implementierung von IoT-Geräten
+
+Fehleranalyse, Bugtracking, Dokumentation
+
+Zusammenarbeit mit Entwicklern und POs, Kundenunterstützung
+
+Anforderungen:
+
+Studium in Elektrotechnik, Informatik oder Telekommunikation
+
+Erfahrung mit Embedded Linux, Cloud, Gateways
+
+Python, Shell, GitLab CI/CD, sehr gutes Englisch
+
+7. Development Engineer für Hammerbohrsysteme
+Aufgaben:
+
+Entwicklung und Umsetzung technischer Konzepte für Hammerbohrer
+
+Verantwortung in Technologie- und Produktentwicklungsprojekten
+
+Abstimmung mit angrenzenden Fachbereichen
+
+Anforderungen:
+
+Studium in Maschinenbau, Konstruktion o. ä.
+
+Mehrjährige Entwicklungserfahrung
+
+Projektmanagementerfahrung, Deutsch und Englisch fließend
+
+8. Simulationsingenieur – Strukturmechanik / Crash (FEM)
+Aufgaben:
+
+FEM-Simulationen für Strukturmechanik, Mechatronik, Regelungstechnik
+
+Validierung mit Versuch, Entwicklung und Messtechnik
+
+Weiterentwicklung von Methoden und Prozessen
+
+Anforderungen:
+
+Studium mit Fokus auf numerische Methoden, FEM oder modellbasierte Entwicklung
+
+Erfahrung mit FEM- und Crashsimulation
+
+Matlab/Simulink von Vorteil, sehr gutes Englisch
